@@ -1,4 +1,4 @@
-# Simon Says built with React Native
+# To-Do List  with React Native
 
 ## Requirements
 - [Node](https://nodejs.org) `4.x` or newer
