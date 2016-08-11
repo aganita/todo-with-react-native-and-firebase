@@ -8,6 +8,7 @@
 - [Android SDK](https://developer.android.com/sdk/) `23.0.2` or newer for Android development
 - [Genymotion](https://www.genymotion.com/) for Android emulation
 - [Android Lollipop](https://www.android.com/versions/lollipop-5-0/) or newer on your Android device to test properly
+- [Firebase account](https://www.firebase.com/docs/web/guide/setup.html) `2.4.2` !!!IMPORTANT newer versions of Firebase did not support React Native at the day this app was created
 
 See [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html) to install requirement tools.
 
